@@ -1,0 +1,29 @@
+.accessories--img{
+padding-right: 12px;
+width: 646px;
+height: 363px;
+position: relative;
+}
+
+.accessories{
+    position: relative;
+    margin-top: 970px;
+    width: 100%;
+    max-width: 1300px;
+    display: flex;
+    align-items: center;
+    padding: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.accessories--text span{
+    font-size: 12px;
+    font-weight: 300;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+}
+
+.accessories--text{
+    display: flex;
+    flex-direction: column;
+}

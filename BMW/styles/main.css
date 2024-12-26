@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.root {
+    clear: both !important;
+    margin-left: var(--grid-margin) !important;
+    margin-right: var(--grid-margin) !important;
+    max-width: 100%;
+    width: auto !important;
+}
+
+.first--block{
+    position: relative;
+}
+
+.main--img{
+    position: absolute;
+    z-index: -1;
+}
+
+.cmp-image img {
+    vertical-align: middle;
+}
+.cmp-image__image {
+    width: 100%;
+    height: auto;
+}
+
